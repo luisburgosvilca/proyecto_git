@@ -2,3 +2,11 @@ body{
     color: deeppink;
     text-align: center;
 }
+
+p {
+    text-decoration: underline;
+}
+
+ol{
+    list-style: lower-alpha;
+}
